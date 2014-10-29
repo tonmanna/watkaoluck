@@ -1,6 +1,5 @@
 var App = angular.module('myApp',['ngRoute','ngAnimate']);
 App.run(function ($http,$rootScope) {
-    $http.defaults.headers.common['token'] = TokenCSRF; // NO Idea
     $rootScope.$on('$routeChangeSuccess', function(){
         if(typeof ga !== 'undefined') {
             ga('send', 'pageview', $location.path());
