@@ -1,5 +1,5 @@
 var App = angular.module('myApp',['ngRoute','ngAnimate']);
-App.run(function ($http,$rootScope) {
+App.run(function ($http,$rootScope,$location) {
     $rootScope.$on('$routeChangeSuccess', function(){
         if(typeof ga !== 'undefined') {
             ga('send', 'pageview', $location.path());
