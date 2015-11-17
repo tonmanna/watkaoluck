@@ -11,7 +11,7 @@ App.config(function($routeProvider,$locationProvider){
     $locationProvider.html5Mode(false).hashPrefix('!');
     $routeProvider
         .when('/',{
-            templateUrl : './template/MainPage.html',
+            templateUrl : './template/HomePage.html',
             controller : 'WatCtrl'
         })
         .when('/page:params',{
