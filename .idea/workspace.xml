@@ -24,7 +24,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1232">
+>>>>>>> origin/master
               <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
               <folding />
             </state>
@@ -34,7 +38,11 @@
       <file leaf-file-name="Schdule.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/Schdule.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
+>>>>>>> origin/master
               <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
               <folding />
             </state>
@@ -44,7 +52,11 @@
       <file leaf-file-name="Menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/Menu.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="792">
+>>>>>>> origin/master
               <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
               <folding />
             </state>
@@ -54,8 +66,12 @@
       <file leaf-file-name="News.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/News.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
 <<<<<<< HEAD
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1056">
+>>>>>>> origin/master
               <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
 =======
               <caret line="21" column="166" selection-start-line="21" selection-start-column="166" selection-end-line="21" selection-end-column="166" />
@@ -68,7 +84,11 @@
       <file leaf-file-name="History.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/History.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="1122">
+>>>>>>> origin/master
               <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
               <folding />
             </state>
@@ -78,7 +98,11 @@
       <file leaf-file-name="Picture.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/Picture.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="506" max-vertical-offset="990">
+>>>>>>> origin/master
               <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding />
             </state>
@@ -88,7 +112,11 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script/App.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="1034">
+>>>>>>> origin/master
               <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               <folding />
             </state>
@@ -109,9 +137,15 @@
       <file leaf-file-name="MainPage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template/MainPage.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.7593583">
               <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+=======
+            <state vertical-scroll-proportion="0.23404256" vertical-offset="0" max-vertical-offset="1122">
+              <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+>>>>>>> origin/master
               <folding>
+                <element signature="n#style#0;n#span#0;n#P#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -121,7 +155,11 @@
       <file leaf-file-name="Contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/Contact.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.0">
+=======
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="572">
+>>>>>>> origin/master
               <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
 =======
       <file leaf-file-name="Contact.html" pinned="false" current-in-tab="true">
@@ -143,6 +181,7 @@
     </FindUsagesManager>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -154,6 +193,15 @@
   </component>
 >>>>>>> Tonman
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/template/MainPage.html" />
+      </list>
+    </option>
+  </component>
+>>>>>>> origin/master
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
@@ -257,7 +305,10 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+>>>>>>> origin/master
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,15 +324,31 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+<<<<<<< HEAD
       <method />
     </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+=======
+>>>>>>> origin/master
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+<<<<<<< HEAD
+=======
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
+>>>>>>> origin/master
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -304,6 +371,7 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
 =======
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -311,6 +379,13 @@
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16385669" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> origin/master
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -434,6 +509,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
+            <element signature="n#style#0;n#span#0;n#P#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -517,6 +593,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
+            <element signature="n#style#0;n#span#0;n#P#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -600,6 +677,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
+            <element signature="n#style#0;n#span#0;n#P#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -683,6 +761,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
+            <element signature="n#style#0;n#span#0;n#P#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -740,7 +819,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/Picture.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="506" max-vertical-offset="990">
+>>>>>>> origin/master
           <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding />
         </state>
@@ -749,7 +832,11 @@
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/template/News.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="726" max-vertical-offset="1056">
+>>>>>>> origin/master
           <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
           <folding />
         </state>
@@ -759,7 +846,11 @@
 >>>>>>> Tonman
     <entry file="file://$PROJECT_DIR$/template/Menu.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="792">
+>>>>>>> origin/master
           <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding />
         </state>
@@ -778,7 +869,11 @@
 >>>>>>> Tonman
     <entry file="file://$PROJECT_DIR$/template/History.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="1122">
+>>>>>>> origin/master
           <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
           <folding />
         </state>
@@ -786,7 +881,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="528" max-vertical-offset="1232">
+>>>>>>> origin/master
           <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
           <folding />
         </state>
@@ -803,9 +902,15 @@
     <entry file="file://$PROJECT_DIR$/template/News.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.7593583">
           <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+=======
+        <state vertical-scroll-proportion="0.23404256" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+>>>>>>> origin/master
           <folding>
+            <element signature="n#style#0;n#span#0;n#P#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#!!top" expanded="true" />
           </folding>
 =======
